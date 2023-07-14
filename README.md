@@ -1,2 +1,2 @@
 # Mass-segmentation-from-digital-mammography
-My Thesis
+Bu tezimde kullandığım U-net kitle bölütlemesi algortimasının eğitim ve doğrulama aşamalarını içermektedir.
